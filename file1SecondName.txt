@@ -1,5 +1,0 @@
-first name
-bug1
-bug3
-bug5
-bug6
